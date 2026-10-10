@@ -13,6 +13,15 @@
       "linkLabel": "Entrar na lista",
       "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-09-loja-moletom.jpg",
       "imageAlt": "Moletom Overclock"
+    },
+    {
+      "id": "2026-10-09-versao-1-4-12",
+      "level": "info",
+      "text": "A 1.4.12 já está no ar. Os terminais mostram a IA, o papel, o número e o nome, e você renomeia clicando no nome. Ao reabrir o app, os terminais da última sessão voltam. O ajudante fecha sozinho ao entregar. Em Configurações, o Harness ganhou um agente por linha e Seu Overclock mostra o seu uso. Se aparecer uma tela de erro, agora dá para gerar o diagnóstico com 1 clique. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar",
+      "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-09-versao-1-4-12.jpg",
+      "imageAlt": "Página inicial do site de documentação da 1.4.12"
     }
   ]
 }
