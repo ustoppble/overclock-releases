@@ -22,6 +22,13 @@
       "linkLabel": "Ver o que testar",
       "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-09-versao-1-4-12.jpg",
       "imageAlt": "Página inicial do site de documentação da 1.4.12"
+    },
+    {
+      "id": "2026-10-10-versao-1-4-13",
+      "level": "info",
+      "text": "A 1.4.13 já está no ar. Um caminho de arquivo que quebra em 2 linhas no terminal agora vira 1 link só. A missão agêntica abre com o modelo que a sua conta tem. O Cofre avisa quando não consegue ler as chaves, sem apagar nada. Se o motor do app cair, ele volta sem fechar a janela. No Windows, os limites do OpenCode e do Antigravity aparecem no topo e a linha de status do Claude fica limpa. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
     }
   ]
 }
