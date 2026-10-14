@@ -29,6 +29,13 @@
       "text": "A 1.4.13 já está no ar. Um caminho de arquivo que quebra em 2 linhas no terminal agora vira 1 link só. A missão agêntica abre com o modelo que a sua conta tem. O Cofre avisa quando não consegue ler as chaves, sem apagar nada. Se o motor do app cair, ele volta sem fechar a janela. No Windows, os limites do OpenCode e do Antigravity aparecem no topo e a linha de status do Claude fica limpa. Cada novidade tem um passo a passo de como testar.",
       "link": "https://docs.overclock.sh/",
       "linkLabel": "Ver o que testar"
+    },
+    {
+      "id": "2026-10-14-versao-1-4-16",
+      "level": "info",
+      "text": "A 1.4.16 já está no ar. O pareamento do celular com o Overclock Mobile fica na aba Mobile, em Configurações, e a conexão volta sozinha depois de uma queda de rede e segue firme mesmo com muitas missões. Dá para remover o seu iPhone e o desktop revogado para de tentar reconectar. Imagem citada num terminal abre no navegador do app, e o \"Viewed image\" do Codex abre a imagem certa. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
     }
   ]
 }
