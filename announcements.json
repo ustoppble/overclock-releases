@@ -54,6 +54,13 @@
       "linkLabel": "Ver o que testar",
       "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-15-versao-1-4-18.jpg",
       "imageAlt": "Página inicial do site de documentação da 1.4.18"
+    },
+    {
+      "id": "2026-10-15-versao-1-4-18-1",
+      "level": "info",
+      "text": "A 1.4.18.1 já está no ar como versão estável: todo mundo recebe pelo aviso de atualização. Ela conserta o pareamento do celular no Windows, que agora tenta de novo quando o antivírus ou o backup seguram o arquivo e não trava mais até reiniciar o app. Quem estava na 1.4.16 recebe junto tudo o que saiu na 1.4.17 e na 1.4.18. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
     }
   ]
 }
