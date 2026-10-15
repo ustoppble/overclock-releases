@@ -36,6 +36,15 @@
       "text": "A 1.4.16 já está no ar. O pareamento do celular com o Overclock Mobile fica na aba Mobile, em Configurações, e a conexão volta sozinha depois de uma queda de rede e segue firme mesmo com muitas missões. Dá para remover o seu iPhone e o desktop revogado para de tentar reconectar. Imagem citada num terminal abre no navegador do app, e o \"Viewed image\" do Codex abre a imagem certa. Cada novidade tem um passo a passo de como testar.",
       "link": "https://docs.overclock.sh/",
       "linkLabel": "Ver o que testar"
+    },
+    {
+      "id": "2026-10-15-versao-1-4-17",
+      "level": "info",
+      "text": "A 1.4.17 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações e privacidade. O Clockinho ganha seletor de modelo de voz, com o Grok Voice 3.0 como padrão, e o gasto de voz do mês passa a aparecer em Plano e gastos. O OverClick conecta pela própria tela, sem terminal. O pareamento do celular ficou mais firme e explica o motivo quando não dá. No Windows, o app não cai mais ao encerrar a sessão. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar",
+      "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-15-versao-1-4-17.jpg",
+      "imageAlt": "Página inicial do site de documentação da 1.4.17"
     }
   ]
 }
