@@ -45,6 +45,15 @@
       "linkLabel": "Ver o que testar",
       "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-15-versao-1-4-17.jpg",
       "imageAlt": "Página inicial do site de documentação da 1.4.17"
+    },
+    {
+      "id": "2026-10-15-versao-1-4-18",
+      "level": "info",
+      "text": "A 1.4.18 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações e privacidade. O Overclock ganha um logo novo no Dock, no instalador e no onboarding. O celular volta a parear com o computador no Windows e continua pareado depois de reabrir o app. No Redline, a conta do Codex mantém os números da última leitura quando a internet cai. Cada novidade tem um passo a passo de como testar.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar",
+      "image": "https://raw.githubusercontent.com/ustoppble/overclock-releases/main/announcements/2026-10-15-versao-1-4-18.jpg",
+      "imageAlt": "Página inicial do site de documentação da 1.4.18"
     }
   ]
 }
