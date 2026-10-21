@@ -61,6 +61,13 @@
       "text": "A 1.4.18.1 já está no ar como versão estável: todo mundo recebe pelo aviso de atualização. Ela conserta o pareamento do celular no Windows, que agora tenta de novo quando o antivírus ou o backup seguram o arquivo e não trava mais até reiniciar o app. Quem estava na 1.4.16 recebe junto tudo o que saiu na 1.4.17 e na 1.4.18. Cada novidade tem um passo a passo de como testar.",
       "link": "https://docs.overclock.sh/",
       "linkLabel": "Ver o que testar"
+    },
+    {
+      "id": "2026-10-21-escale-300",
+      "level": "info",
+      "text": "[VOCÊ GANHOU] R$ 300,00 para participar do evento Escale Seu SaaS (31 de outubro a 1º de novembro). Aperte abaixo para resgatar.",
+      "link": "https://overclock.sh/escale?utm_source=app",
+      "linkLabel": "Resgatar"
     }
   ]
 }
