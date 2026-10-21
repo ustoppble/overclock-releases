@@ -66,7 +66,7 @@
       "id": "2026-10-21-escale-300",
       "level": "info",
       "text": "[VOCÊ GANHOU] R$ 300,00 para participar do evento Escale Seu SaaS (31 de outubro a 1º de novembro). Aperte abaixo para resgatar.",
-      "link": "https://overclock.sh/escale?utm_source=app",
+      "link": "https://overclock.sh/escale/v2?id=evento",
       "linkLabel": "Resgatar"
     }
   ]
