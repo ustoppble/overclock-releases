@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-03-escale-lista-de-espera",
+      "level": "info",
+      "text": "A 1ª edição do Escale seu SaaS esgotou. Entre na lista de espera da 2ª edição, em 30 e 31/01/2027.",
+      "link": "https://overclock.sh/escale?utm_source=app",
+      "linkLabel": "Entrar na lista de espera"
+    },
+    {
       "id": "2026-10-05-avisos-no-avatar",
       "level": "info",
       "text": "A partir da 1.4.9, avisos e novidades ficam no avatar, no alto à direita."
