@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-15-versao-1-6-0-7",
+      "level": "info",
+      "text": "A 1.6.0.7 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz a loja nova, com 86 itens e coins em dobro até 30/11, o ClockVoice completo com atalho global, Permissões do Mac com Acessibilidade, o piloto geral abrindo na hora, o terminal ssh:// no Windows, o ranking na janela do XP e o selo Conta N.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-14-versao-1-6-0-6",
       "level": "info",
       "text": "A 1.6.0.6 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz o celular sem cair a conexão, com troca de modelo, esforço e conta, tema e Clockinho iguais aos do computador, a Loja nas Configurações, agora em coins, com 3 tipos de Pacote surpresa e os Óculos tartaruga, o piloto reabrindo sempre na conversa completa e o navegador da missão que abre ao clicar. A estável segue a 1.5.0.7. Cada novidade tem um passo a passo de como testar.",
