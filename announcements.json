@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-15-versao-1-6-0-9",
+      "level": "info",
+      "text": "A 1.6.0.9 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz a Conversa sem censura: a Conversa, as notas, os cartões e a busca mostram o texto como ele foi escrito, sem trocar chave, e-mail ou endereço por asteriscos. O que sai do computador, como o controle pelo celular, continua protegido. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-15-versao-1-6-0-8",
       "level": "info",
       "text": "A 1.6.0.8 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz as Novidades completas, por área e com busca, o Modo do app Clássico ou Overclock em Aparência, um editor só para anexos com marcas numeradas, a Conversa sem piscar nem repetir mensagem na fila, a caixa do piloto enxuta, ajudantes abrindo mais rápido e a voz do Clockinho com olhos vivos. No Windows ARM64 ela sai depois. A estável segue a 1.5.0.7.",
