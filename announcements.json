@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-16-versao-1-6-0-11",
+      "level": "info",
+      "text": "A 1.6.0.11 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz os 7 itens da coleção VibeCity funcionando depois da compra, várias imagens e vídeos de uma vez na Conversa, o celular reconectando sozinho depois de uma queda, o Mac sem cair ao fechar um terminal e, no Windows, \"Atualizar e reiniciar\" instalando a versão nova.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-16-versao-1-6-0-10",
       "level": "info",
       "text": "A 1.6.0.10 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz a loja de cara nova, com a coleção VibeCity: o tema VibeCity, a camisa florida, os óculos espelhados, a Orla ao entardecer no Escritório, o flamingo, o carro e o ícone do app, com 30% para quem leva tudo; recortar a área e o trecho do vídeo antes de virar quadros; missão sem terminal com 1 lista só e mais 8 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
