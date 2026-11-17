@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-17-versao-1-6-0-15",
+      "level": "info",
+      "text": "A 1.6.0.15 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz: arrastar um print para o terminal funciona em qualquer parte dele; a Conversa do piloto mostra sempre a conversa dele, também depois de reabrir o app; painel de limites da barra do Mac não quebra mais com o zoom do app e o piloto sabe abrir o ajudante na conta com folga quando a pedida acabou e mais 31 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-17-versao-1-6-0-14",
       "level": "info",
       "text": "A 1.6.0.14 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz entregas dos ajudantes em linguagem de gente; celular separa a ordem do piloto da entrega e mostra \"Etapa N de M\"; branch no cabeçalho da conversa do celular e o celular mostra o tema de verdade e o cabelo de cada agente e mais 1 novidade. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
