@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-17-versao-1-6-0-13",
+      "level": "info",
+      "text": "A 1.6.0.13 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz barra de título do Mac escura nos temas escuros. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-16-versao-1-6-0-12",
       "level": "info",
       "text": "A 1.6.0.12 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz a missão é o piloto, e cada ajudante tem o seu Clockinho na barra lateral; no ranking você entra anônimo e aparece pelo apelido que o Clockinho usa com você; o canto de baixo da barra lateral mostra como o Clockinho chama você e a Loja sem Pacote surpresa, só com item que se compra direto e mais 2 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
