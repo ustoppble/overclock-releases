@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-17-versao-1-6-0-14",
+      "level": "info",
+      "text": "A 1.6.0.14 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz entregas dos ajudantes em linguagem de gente; celular separa a ordem do piloto da entrega e mostra \"Etapa N de M\"; branch no cabeçalho da conversa do celular e o celular mostra o tema de verdade e o cabelo de cada agente e mais 1 novidade. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-17-versao-1-6-0-13",
       "level": "info",
       "text": "A 1.6.0.13 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz barra de título do Mac escura nos temas escuros. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
