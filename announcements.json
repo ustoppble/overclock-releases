@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-18-versao-1-6-0-17",
+      "level": "info",
+      "text": "A 1.6.0.17 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz atualizações mostra todas as novidades da versão, sem esconder nenhuma; a busca de Projetos casa com o nome do projeto; um editor só para imagem e vídeo e a Conversa volta no fim da resposta em andamento e mais 11 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-18-versao-1-6-0-16",
       "level": "info",
       "text": "A 1.6.0.16 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz no Linux, o Antigravity logado pelo chaveiro do sistema aparece como logado; conta extra do Antigravity mostra os modelos atuais; rolar de lado na barra de abas mostra as abas escondidas e barra lateral enxuta, com cada piloto numa linha e os ajudantes por dentro e mais 3 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
