@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-19-versao-1-6-0-18",
+      "level": "info",
+      "text": "A 1.6.0.18 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz abrir um terminal em passos: IA, conta, modelo e esforço; issues e PRs com datas, PRs desta versão e issues já consertadas; escolher IA, conta, modelo e esforço num lugar só, também nos terminais e a Mochila do Clock foi refeita e cabe no painel e mais 18 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-18-versao-1-6-0-17",
       "level": "info",
       "text": "A 1.6.0.17 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz atualizações mostra todas as novidades da versão, sem esconder nenhuma; a busca de Projetos casa com o nome do projeto; um editor só para imagem e vídeo e a Conversa volta no fim da resposta em andamento e mais 11 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
