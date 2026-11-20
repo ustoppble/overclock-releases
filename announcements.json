@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-20-versao-1-6-0-21",
+      "level": "info",
+      "text": "A 1.6.0.21 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz fechar o app por fora ou atualizar não perde mais os terminais; terminal sem limite de conta continua na outra conta, no mesmo lugar e com a mesma conversa; a lista Missões mostra 1 Clock vivo e não põe ajudante trabalhando em \"concluídos\" e reabrir o Clock de uma missão grande funciona no celular, a missão mostra o objetivo atual e o Clock reaberto continua sendo o Clock. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-20-versao-1-6-0-20",
       "level": "info",
       "text": "A 1.6.0.20 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz os 3 botões da janela do Mac não cobrem mais a 1ª aba; keys de voz sincronizadas com o celular; a conversa por voz do celular fica guardada no histórico do agente e o celular abre o texto que o agente entregou fora da pasta do projeto e mais 1 novidade. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
