@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-20-versao-1-6-0-20",
+      "level": "info",
+      "text": "A 1.6.0.20 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz os 3 botões da janela do Mac não cobrem mais a 1ª aba; keys de voz sincronizadas com o celular; a conversa por voz do celular fica guardada no histórico do agente e o celular abre o texto que o agente entregou fora da pasta do projeto e mais 1 novidade. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-20-versao-1-6-0-19",
       "level": "info",
       "text": "A 1.6.0.19 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz atualizar sozinho quando o time parar; o alerta da aba Clocks fica à direita do nome; vídeos entregues mostram a capa e os nomes parecidos aparecem diferentes e a Mochila mostra as memórias que o Clock recebe e quem trouxe cada uma e mais 7 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
