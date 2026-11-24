@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "2026-11-24-versao-1-6-0-28",
+      "level": "info",
+      "text": "A 1.6.0.28 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz depois de atualizar, a missão volta com o mesmo piloto; instância de desenvolvimento não retoma terminais nem sessões vivos do app instalado; conversas achadas no disco ignoram pastas temporárias e não mostram nome de pasta como título e o dev mostra a missão e a conversa do Clock abertas no Overclock instalado, e não deixa abrir nem retomar e mais 175 novidades. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
+      "link": "https://docs.overclock.sh/",
+      "linkLabel": "Ver o que testar"
+    },
+    {
       "id": "2026-11-20-versao-1-6-0-21",
       "level": "info",
       "text": "A 1.6.0.21 saiu como versão de teste: chega para quem ligou Receber pré-releases em Configurações › Atualizações. Traz fechar o app por fora ou atualizar não perde mais os terminais; terminal sem limite de conta continua na outra conta, no mesmo lugar e com a mesma conversa; a lista Missões mostra 1 Clock vivo e não põe ajudante trabalhando em \"concluídos\" e reabrir o Clock de uma missão grande funciona no celular, a missão mostra o objetivo atual e o Clock reaberto continua sendo o Clock. Sai nas 6 plataformas. A estável segue a 1.5.0.7.",
